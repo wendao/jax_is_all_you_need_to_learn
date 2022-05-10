@@ -2,4 +2,4 @@
 
 - [ ] AF-relax
 - [ ] AF-pepdock
-- [ ] AF-hybrid
+- [ ] AF-hybridize
